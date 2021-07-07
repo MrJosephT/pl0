@@ -1,0 +1,12 @@
+const
+    a=5,
+    b=6;
+var c,d;
+procedure febonacci;
+begin
+c := (a+b);
+b := a;
+c := b
+end;
+.
+
